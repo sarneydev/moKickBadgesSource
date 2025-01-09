@@ -3,7 +3,7 @@
         {
             "type":"usgek",
             "badgeAvailability:": ["card", "channel"],
-            "badgeSrc":"icons/badge_usgek.png",
+            "badgeSrc":"https://raw.githubusercontent.com/sarneydev/moKickBadgesSource/refs/heads/main/icons/badge_usgek.png",
             "badgeText":"usgek."
         }
     ]
