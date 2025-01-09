@@ -1,16 +1,22 @@
 {
-    "exclusive_badges":[
+    "exclusive_badges": [
         {
-            "type":"usgek",
-            "badgeAvailability": ["card", "channel"],
-            "badgeSrc":"https://raw.githubusercontent.com/sarneydev/moKickBadgesSource/refs/heads/main/icons/badge_usgek.png",
-            "badgeText":"usgek."
+            "type": "usgek",
+            "badgeAvailability": [
+                "card",
+                "channel"
+            ],
+            "badgeSrc": "https://raw.githubusercontent.com/sarneydev/moKickBadgesSource/refs/heads/main/icons/badge_usgek.png",
+            "badgeText": "usgek."
         },
         {
-            "type":"canau",
-            "badgeAvailability": ["channel"],
-            "badgeSrc":"https://raw.githubusercontent.com/sarneydev/moKickBadgesSource/refs/heads/main/icons/badge_cago.png",
-            "badgeText":"canau."
+            "type": "canau",
+            "badgeAvailability": [
+                "card",
+                "channel"
+            ],
+            "badgeSrc": "https://raw.githubusercontent.com/sarneydev/moKickBadgesSource/refs/heads/main/icons/badge_cago.png",
+            "badgeText": "canau."
         }
     ]
 }
