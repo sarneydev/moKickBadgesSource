@@ -1,0 +1,10 @@
+{
+    "exclusive_badges":[
+        {
+            "type":"usgek",
+            "badgeAvailability:": ["card", "channel"],
+            "badgeSrc":"icons/badge_usgek.png",
+            "badgeText":"usgek."
+        }
+    ]
+}
