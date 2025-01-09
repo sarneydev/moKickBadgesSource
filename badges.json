@@ -5,6 +5,12 @@
             "badgeAvailability": ["card", "channel"],
             "badgeSrc":"https://raw.githubusercontent.com/sarneydev/moKickBadgesSource/refs/heads/main/icons/badge_usgek.png",
             "badgeText":"usgek."
+        },
+        {
+            "type":"canau",
+            "badgeAvailability": ["channel"],
+            "badgeSrc":"https://raw.githubusercontent.com/sarneydev/moKickBadgesSource/refs/heads/main/icons/badge_cago.png",
+            "badgeText":"canau."
         }
     ]
 }
