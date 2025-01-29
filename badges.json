@@ -7,7 +7,11 @@
                 "channel"
             ],
             "badgeSrc": "https://raw.githubusercontent.com/sarneydev/moKickBadgesSource/refs/heads/main/icons/badge_donkey.png",
-            "badgeText": "usgek."
+            "badgeText": "usgek.",
+            "badgeShortened": {
+                "code": "USK",
+                "description": "usgek."
+            }
         },
         {
             "type": "canau",
@@ -16,7 +20,11 @@
                 "channel"
             ],
             "badgeSrc": "https://raw.githubusercontent.com/sarneydev/moKickBadgesSource/refs/heads/main/icons/badge_cago.png",
-            "badgeText": "canau."
+            "badgeText": "canau.",
+            "badgeShortened": {
+                "code": "CAN",
+                "description": "canau."
+            }
         }
     ]
 }
